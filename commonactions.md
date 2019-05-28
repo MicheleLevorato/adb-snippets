@@ -24,5 +24,4 @@ Cls
 adb logcat Localytics:V *:S | find "upload_format=2"
  
 ### Firebase: forzare modalità debug
-adb shell setprop debug.firebase.analytics.app <package_name>
 adb shell setprop debug.firebase.analytics.app com.company.appname
