@@ -1,7 +1,9 @@
 ## Debug con Android Debug Bridge
 
 ### Elenca i devices connessi
+'''
 adb devices -l
+'''
 
 ### Elenca le app e le filtra per stringa
 adb shell pm list packages -f |find "stringa"
