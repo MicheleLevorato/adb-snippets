@@ -1,5 +1,6 @@
 # Operazione preliminare: abilitare il debug mode
 *Impostazioni* > *Informazioni sul telefono* > 7 volte tap su *Numero Build*
+
 *Opzioni sviluppatore* > *Debug USB*
 
 ## Debug con Android Debug Bridge
